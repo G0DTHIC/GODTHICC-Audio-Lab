@@ -1,5 +1,5 @@
 {
   "version": "4.2.0.1",
-  "url": "https://t.me/ggthccstud",
-  "notes": "Mise à jour V4.2.0.1 : Importation TikTok Studio, compatibilité totale PC portables HP et détection des vidéos muettes !"
+  "url": "https://huggingface.co/ggthcc/godthicc-releases/resolve/main/Setup_GODTHICC_Audio_Lab_V4.2.0.1.exe?download=true",
+  "changelog": "V4.2.0.1 - Support direct des liens TikTok (extraits en WAV 44.1kHz 16-bit Master), gestion automatique des vidéos muettes, correctif universel de pré-écoute sur PC portables HP/WASAPI, et équilibrage des quotas TikTok."
 }
