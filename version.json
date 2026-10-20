@@ -1,5 +1,5 @@
 {
-  "version": "4.2.0.1",
-  "url": "https://huggingface.co/ggthcc/godthicc-releases/resolve/main/Setup_GODTHICC_Audio_Lab_V4.2.0.1.exe?download=true",
-  "changelog": "V4.2.0.1 - Support direct des liens TikTok (extraits en WAV 44.1kHz 16-bit Master), gestion automatique des vidéos muettes, correctif universel de pré-écoute sur PC portables HP/WASAPI, et équilibrage des quotas TikTok."
+  "version": "4.2.0.2",
+  "url": "https://huggingface.co/ggthcc/godthicc-releases/resolve/main/Setup_GODTHICC_Audio_Lab_V4.2.0.2.exe?download=true",
+  "changelog": "V4.2.0.2 - Intégration officielle de la boutique Chariow (https://kmxmsmgk.mychariow.market/), bouton direct de renouvellement et déblocage instantané des quotas."
 }
